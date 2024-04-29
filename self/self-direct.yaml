@@ -1,0 +1,129 @@
+payload:
+
+  # - IP-CIDR,127.0.0.1/32,no-resolve
+  # - IP-CIDR,192.168.0.0/24,no-resolve
+  # - IP-CIDR,10.0.0.0/24,no-resolve
+  # - IP-CIDR,172.0.0.0/24,no-resolve
+
+  # - PROCESS-NAME,Clash for Windows.exe
+  # - PROCESS-NAME,ctfmon.exe
+  # - PROCESS-NAME,WeChat.exe
+  # - PROCESS-NAME,svchost.exe
+  # - PROCESS-NAME,QQMusic.exe
+  # - PROCESS-NAME,baidunetdisk.exe
+  # - PROCESS-NAME,SearchApp.exe
+  # - PROCESS-NAME,Autoupdate.exe
+  # - PROCESS-NAME,baidunetdiskhost.exe
+  # - PROCESS-NAME,kwaiLive.exe
+  # - PROCESS-NAME,update.exe
+  # - PROCESS-NAME,直播伴侣.exe
+  # - PROCESS-NAME,MpDefenderCoreService.exe
+  # - PROCESS-NAME,ELEMENTCLIENT.exe
+  # - PROCESS-NAME,Super Animal Royale.exe
+  # - PROCESS-NAME,steamerrorreporter.exe
+  # - PROCESS-NAME,360DrvMgr.exe
+  # - PROCESS-NAME,obs64.exe
+
+  # - PROCESS-NAME,parsec
+  # - PROCESS-NAME,parsecd
+  # - PROCESS-NAME,pservice
+  # - PROCESS-NAME,parsec.exe
+  # - PROCESS-NAME,parsecd.exe
+  # - PROCESS-NAME,pservice.exe
+  # - DOMAIN-KEYWORD,parsec
+  # - SRC-PORT,3478
+  # - DST-PORT,3478
+
+  - DOMAIN-KEYWORD,taro
+  - DOMAIN-KEYWORD,ant
+  - DOMAIN-KEYWORD,115
+  - DOMAIN-KEYWORD,116cd
+  - DOMAIN-KEYWORD,telegra.ph
+  - DOMAIN-KEYWORD,loadbt.ph
+  - DOMAIN-KEYWORD,exp-tas
+  
+  - DOMAIN-KEYWORD,anxia
+  - DOMAIN-KEYWORD,dota
+  - DOMAIN-KEYWORD,gitee
+  - DOMAIN-KEYWORD,ipshudi
+  - DOMAIN-KEYWORD,bing
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,sogou
+  - DOMAIN-KEYWORD,360
+  - DOMAIN-KEYWORD,iqiyi
+  - DOMAIN-KEYWORD,tmall
+  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,alipay
+  - DOMAIN-KEYWORD,ali
+  - DOMAIN-KEYWORD,npm
+  - DOMAIN-KEYWORD,zhihu
+  - DOMAIN-KEYWORD,zhihu
+  - DOMAIN-KEYWORD,bcebos
+  - DOMAIN-KEYWORD,zhimg
+  - DOMAIN-KEYWORD,juejin
+  - DOMAIN-KEYWORD,bytescm
+  - DOMAIN-KEYWORD,zijieapi
+  - DOMAIN-KEYWORD,snssdk
+  - DOMAIN-KEYWORD,byteimg
+  - DOMAIN-KEYWORD,ibytedapm
+  - DOMAIN-KEYWORD,byted-static
+  - DOMAIN-KEYWORD,zijieapi
+  - DOMAIN-KEYWORD,manget
+  - DOMAIN-KEYWORD,wikipedia
+  - DOMAIN-KEYWORD,sudosolo
+  - DOMAIN-KEYWORD,gaea
+  - DOMAIN-KEYWORD,easyessay
+  - DOMAIN-KEYWORD,xiaohongshu
+  - DOMAIN-KEYWORD,dingding
+  - DOMAIN-KEYWORD,bytedance
+  - DOMAIN-KEYWORD,volccdn
+  - DOMAIN-KEYWORD,zijieapi
+  - DOMAIN-KEYWORD,yhgfb-cn-static
+  - DOMAIN-KEYWORD,volceapplog
+  - DOMAIN-KEYWORD,bytegoofy
+  - DOMAIN-KEYWORD,volcengine
+  - DOMAIN-KEYWORD,zijieapi
+  - DOMAIN-KEYWORD,douyin
+  - DOMAIN-KEYWORD,douyu
+  - DOMAIN-KEYWORD,huya
+  - DOMAIN-KEYWORD,hdslb
+  - DOMAIN-KEYWORD,csdn
+  - DOMAIN-KEYWORD,wwads
+  - DOMAIN-KEYWORD,clarity
+  - DOMAIN-KEYWORD,googlesyndication
+  - DOMAIN-KEYWORD,bilibili
+  - DOMAIN-KEYWORD,geetest
+  - DOMAIN-KEYWORD,bili
+  - DOMAIN-KEYWORD,qq
+  - DOMAIN-KEYWORD,woa
+  - DOMAIN-KEYWORD,weixin
+  - DOMAIN-KEYWORD,wechat
+  - DOMAIN-KEYWORD,tencent
+  - DOMAIN-KEYWORD,qcloudimg
+  - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,google-analytics
+  - DOMAIN-KEYWORD,googletagmanager
+  - DOMAIN-KEYWORD,giocdn
+  - DOMAIN-KEYWORD,giocdn
+  - DOMAIN-KEYWORD,growingio
+  - DOMAIN-KEYWORD,getcookiestxt
+  - DOMAIN-KEYWORD,ntalker
+  - DOMAIN-KEYWORD,yunaq
+  - DOMAIN-KEYWORD,5173
+  - DOMAIN-KEYWORD,eccdnx
+  - DOMAIN-KEYWORD,telerik
+  - DOMAIN-KEYWORD,akamaihd
+  - DOMAIN-KEYWORD,12306
+  - DOMAIN-KEYWORD,jd
+  - DOMAIN-KEYWORD,tpddns
+  - DOMAIN-KEYWORD,apple
+  - DOMAIN-KEYWORD,icloud
+  - DOMAIN-KEYWORD,youku
+  - DOMAIN-KEYWORD,126
+  - DOMAIN-KEYWORD,163
+  - DOMAIN-KEYWORD,xhscdn
+  - DOMAIN-KEYWORD,metshop
+  - DOMAIN-KEYWORD,qlogo
+
+  - DOMAIN-KEYWORD,konami
+  - DOMAIN-KEYWORD,steamserver

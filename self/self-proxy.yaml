@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-KEYWORD,cloudflareinsights
+  - DOMAIN-KEYWORD,ytimg
+  - DOMAIN-KEYWORD,ggpht
+  - DOMAIN-KEYWORD,doubleclick
+  - DOMAIN-KEYWORD,gstatic
+  - DOMAIN-KEYWORD,googleadservices
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-KEYWORD,ytimg
